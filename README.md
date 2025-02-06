@@ -11,6 +11,9 @@ I'm a **Computer Science student** at the University of New Brunswick, passionat
 - 📍 Open to collaborating on projects and learning new things!
 
 ---
+![Kazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazisakin&show_icons=true&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kazisakin&theme=darkhub)
+
 
 ## 🛠 **Skills**
 
