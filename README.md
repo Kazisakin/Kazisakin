@@ -44,30 +44,49 @@ I'm a third-year Computer Science student at the University of New Brunswick, fo
 
 ---
 
+
 ## Projects
 
+### [SMS Spam Classifier](https://github.com/Kazisakin/SMS-Spam-Classifier)  
+Developed a machine learning model to classify SMS messages as spam or not. Used scikit-learn for vectorization and training, achieving high accuracy on real-world SMS datasets.
+
+### [Data Visualization – Student Usage Patterns](https://github.com/Kazisakin/Data-vizualization)  
+Analyzed and visualized student device usage and academic performance using Python, Pandas, and Matplotlib. Created interactive visual reports to extract behavioral insights.
+
+### [LLM Case Classifier App](https://github.com/Kazisakin/llm-case-classifier-app)  
+Built a full-stack case classification tool using a lightweight LLM pipeline. Integrated SQLite for storage, a modern UI form for inputs, and logic to return predicted status and category.
+
+### [Inventory Management System](https://github.com/Kazisakin/CS2263_INVMS)  
+Designed and implemented a modular inventory system in C++ using linked lists and file I/O. Applied dynamic memory, sorting/searching algorithms, and built a menu-driven console UI.
+
+### [Wildfire Management Dashboard](https://github.com/Kazisakin/wfd-t12)  
+Developed a JavaFX-based dashboard that visualizes wildfire risk levels using weather API data. Applied object-oriented design, API integration, and map-based UI logic.
+
 ### [WordPress Secure Voting Plugin](https://github.com/Kazisakin/2FA-Universal-WP-Voting)  
-Developed a secure online voting system for the Bangladesh Student Society (UNB) using PHP and MySQL. Integrated token-based authentication and multi-factor security to ensure voter integrity.
+Created a secure online voting system for the Bangladesh Student Society using PHP and MySQL. Integrated multi-factor authentication and token-based access for safe and fair elections.
 
 ### [Invoice Management System](https://github.com/Kazisakin/Invoice-generator)  
-Built a desktop-based invoice generator using JavaFX and MySQL. Features include role-based login, automated invoice creation, and PDF export functionality.
+Built a role-based invoice generation system in JavaFX connected to MySQL. Features include secure login, invoice history, and PDF export functionality.
 
 ### [Employee Performance Data Analysis](https://github.com/Kazisakin)  
-Analyzed real-world call center data using Python. Created dashboards in Tableau to track KPIs, identify performance trends, and support decision-making.
+Analyzed call center KPIs using Python and visualized insights in Tableau. Helped identify top-performing agents and common escalation triggers to improve service quality.
+
 
 ---
 
 ## Certifications & Awards
 
-- R Programming Boot Camp – Bangladesh University of Professionals (2022)  
-- Talent Hunt Winner – Graphic Design, SofTech-IT (2020)
+- R Programming Boot Camp – Bangladesh University of Professional Economics Club (2023)  
+  Gained hands-on experience in data cleaning, preprocessing, and visualization in R. Automated survey data analysis for efficient reporting.
 
----
+- Advanced WordPress Development – SofTech-IT (2018)  
+  Learned HTML, CSS, JavaScript, PHP, and Laravel to build responsive WordPress themes and interactive web features.
+
 
 ## Let's Connect
 
 - Email: kazisakin@icloud.com  
-- LinkedIn: [linkedin.com/in/kazi-mostofa-sakin-16b178307](https://www.linkedin.com/in/kazi-mostofa-sakin-16b178307)  
+- LinkedIn: https://linkedin.com/in/kazisakin 
 - Behance: [behance.net/kazimostofasakin](https://www.behance.net/kazimostofasakin)  
 - Portfolio: [kazisakin.dev](https://kazisakin.dev)
 
