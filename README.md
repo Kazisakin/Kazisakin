@@ -1,6 +1,9 @@
 # Kazi Mostofa Sakin
 
-I'm a third-year Computer Science student at the University of New Brunswick, focused on building practical software solutions. I work across full-stack development, data analysis, and automation. My current interests include machine learning, systems design, and cybersecurity. I'm actively seeking a Fall 2025 Co-op to apply and grow my skills in a real-world setting.
+Detail-driven 3rd-year Computer Science student with hands-on experience in full-stack development, automation, and
+machine learning. Skilled in building secure, scalable applications using Java, Python, Next.js, and Docker. Strong in backend
+logic, cloud integration, and system optimisation. Known for analytical thinking, clear communication, and delivering results
+in fast-paced environments.
 
 ![Kazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazisakin&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazisakin&layout=compact&theme=radical)
