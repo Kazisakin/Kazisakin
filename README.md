@@ -5,7 +5,7 @@ I’m a third-year Computer Science student at the University of New Brunswick w
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazisakin&layout=compact&theme=light)
 ![Kazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazisakin&show_icons=true&theme=light)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kazisakin&theme=light)
+
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=kazisakin&theme=dracula)
 # Skills
 
