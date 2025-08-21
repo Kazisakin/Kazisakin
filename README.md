@@ -2,11 +2,7 @@
 I’m a third-year Computer Science student at the University of New Brunswick with a passion for building secure, scalable, and user-friendly software. I bring hands-on experience in full-stack development, automation, and machine learning—specializing in Java, Python, Docker, and Next.js. Whether it’s crafting an interactive wildfire dashboard or deploying an SMS spam classifier with 90%+ accuracy, I thrive on solving complex problems with clean, efficient code.
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazisakin&layout=compact&theme=light)
-![Kazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazisakin&show_icons=true&theme=light)
 
-
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=kazisakin&theme=dracula)
 # Skills
 
 ### Programming & Scripting
