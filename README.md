@@ -1,74 +1,129 @@
-# Kazi Mostofa Sakin <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahdous&label=Profile%20views&color=0e75b6&style=flat" alt="shahdous" /> </p>
-I’m a third-year Computer Science student at the University of New Brunswick with a passion for building secure, scalable, and user-friendly software. I bring hands-on experience in full-stack development, automation, and machine learning—specializing in Java, Python, Docker, and Next.js. Whether it’s crafting an interactive wildfire dashboard or deploying an SMS spam classifier with 90%+ accuracy, I thrive on solving complex problems with clean, efficient code.
+# Kazi Mostofa Sakin
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kazisakin&label=Profile%20views&color=0e75b6&style=flat" alt="Kazisakin" />
+</p>
 
+Third-year Computer Science student at the University of New Brunswick. I build secure, scalable full-stack applications and machine learning systems — with hands-on work in Python, Java, Next.js, and Docker. Recent focus: differentially private LLM fine-tuning, full-stack production systems, and API testing.
 
-# Skills
+📍 Fredericton, NB, Canada &nbsp;·&nbsp; 🎓 BCS, UNB (Jan 2023 – Dec 2026) &nbsp;·&nbsp; 📧 kazisakin@icloud.com
 
-### Programming & Scripting
+---
+
+## 🛠 Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Libraries & Frameworks
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-### Testing & Automation
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-005000?style=for-the-badge&logo=testng&logoColor=white)
+### Testing
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ReadyAPI](https://img.shields.io/badge/ReadyAPI-2EAD33?style=for-the-badge&logo=smartbear&logoColor=white)
 
-### Tools
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
-## Projects
+---
 
-### [Wildfire Detection System](https://github.com/Kazisakin/wfd-t12) 
-GitHub RepositoryCreated a 16×16 map UI to view weather metrics (temp, humidity, wind, dryness) using JavaFX and lat/lon grid. Implemented a buffered Data Loader with linear filtering; created a Time Slider for 24-hour forecasts, validated using JUnit, and enhanced a heatmap for coordinate-based evacuation planning.
+## 🚀 Featured Projects
 
-### [Invoice Management System](https://github.com/Kazisakin/Invoice-generator) 
-GitHub RepositoryDeveloped an SMS classifier for 11,000+ messages using regex-based text preprocessing, with F1-score of 0.94. Deployed containerized web app using Docker and Render.com with responsive frontend for real-time detection.
+### [DP-SGD GPT-2 Text Generation](https://github.com/Kazisakin)
+Differentially private fine-tuning of 5 GPT-2 family model variants using PyTorch, HuggingFace, and Opacus. Achieved formal (ε, δ)-DP guarantees with 0% canary leakage. Includes Flask multi-model inference web app with real-time response comparison.
+**Stack:** Python · PyTorch · HuggingFace · Opacus · Flask · Linux GPU (Vast.ai, Kaggle)
 
-### [Invoice Management System](https://github.com/Kazisakin/Invoice-generator) 
-GitHub RepositoryDesigned a modular inventory system in C++ using linked lists and file I/O. Incorporated dynamic memory management, sorting/searching algorithms, and a user-friendly menu-driven console interface.
+### [KrishiVet — Full-Stack Production Site](https://krishivet.ca)
+Production e-commerce-adjacent platform built from scratch in Next.js 16. 15+ REST API endpoints, 8-table PostgreSQL schema via Prisma, 2FA admin with email OTP, session management, rate limiting, XSS/CSRF protection, and CI/CD via Vercel.
+**Stack:** Next.js · TypeScript · PostgreSQL · Prisma ORM · Tailwind CSS · Vercel
 
-### [Ccase-classifier](https://github.com/Kazisakin/2FA-Universal-WP-Voting) 
-Built an automated system using OpenAI API to categorize user problems into categories, with real-time status updates. Designed a real-time Case Statistics Dashboard to visualize total, resolved, and pending cases with 5 category, priority, and daily breakdown charts using PostgreSQL queries and dynamic chart components for actionable insights.
+### [Wildfire Detection System](https://github.com/Kazisakin/wfd-t12)
+JavaFX-based wildfire monitoring with a 16×16 grid map showing temperature, humidity, wind, and dryness. Buffered Data Loader with linear filtering, 24-hour Time Slider, and JUnit 5 test suite covering unit, integration, and boundary cases.
+**Stack:** Java · JavaFX · JUnit 5 · Maven
 
-### [WordPress Secure Voting Plugin](https://github.com/Kazisakin/2FA-Universal-WP-Voting) 
-GitHub RepositoryDeveloped a secure voting system by customizing WordPress with PHP/MySQL, enabling 100+ members to vote; collaborated with faculty to validate platform integrity and user guide. Implemented 2FA email validation for secure voting access using PHP hooks, applying a 30-minute token limit after failed attempts and triggering automated confirmation emails upon successful submission.
+### [Secure Feedback Web Application](https://github.com/Kazisakin/secure-feedback-app)
+Multi-role Spring Boot application with Spring Security and PostgreSQL. STRIDE threat modelling, attack tree analysis, RBAC enforcement, and full functional + security testing with documented defect reports.
+**Stack:** Java · Spring Boot · Spring Security · PostgreSQL · Docker
 
+### [SMS Spam Classifier](https://github.com/Kazisakin/SMS-Spam-Classifier)
+Flask web app processing 11,000+ messages with TF-IDF preprocessing. Trained Logistic Regression, KNN, and Decision Tree classifiers. Containerised deployment on Railway with a feedback loop triggering retraining after 50+ submissions.
+**Stack:** Python · Flask · scikit-learn · Pandas · Docker · Railway
 
-<hr>
+### [WordPress Secure Voting Platform](https://github.com/Kazisakin/2FA-Universal-WP-Voting)
+WordPress + PHP/MySQL voting platform serving 150+ UNB BSS members. Email-based 2FA with 30-minute token expiry, 10+ vote categories, automated confirmation emails, and faculty-validated platform integrity.
+**Stack:** WordPress · PHP · MySQL · Custom PHP Hooks
 
-### Let’s Connect
-📧 Email: kazisakin@icloud.com<br>
-🔗 LinkedIn: linkedin.com/in/kazisakin<br>
-🌐 Portfolio: kazisakin.dev<br>
-🎨 Behance: behance.net/kazimostofasakin<br>
+### [Inventory Management System](https://github.com/Kazisakin/Invoice-generator)
+Modular C++ console inventory system using linked lists and file I/O. Dynamic memory management, sorting/searching algorithms, and a menu-driven interface.
+**Stack:** C++ · STL · File I/O
+
+### [LLM Case Classifier App](https://github.com/Kazisakin/llm-case-classifier-app)
+Automated case categorisation system using the OpenAI API with real-time status updates. PostgreSQL-powered statistics dashboard visualising total, resolved, and pending cases across 5 categories with daily breakdown charts.
+**Stack:** Python · OpenAI API · PostgreSQL · Chart.js
+
+---
+
+## 📜 Certifications
+
+- **ReadyAPI: API Test Engineer — Basics** · SmartBear · Feb 2026
+- **Postman API Fundamentals Student Expert** · Postman · Jan 2026
+- **R Programming Boot Camp** · Bangladesh University of Professional Economics Club · 2023
+- **Advanced WordPress Development** · Softech-IT · 2018
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kazisakin&show_icons=true&theme=default&hide_border=true" alt="Kazi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazisakin&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** kazisakin@icloud.com
+🔗 **LinkedIn:** [linkedin.com/in/kazisakin](https://linkedin.com/in/kazisakin)
+🌐 **Portfolio:** [kazisakin.dev](https://kazisakin.dev)
+🎨 **Design Portfolio:** [design.kazimostofasakin.com](https://design.kazimostofasakin.com)
+📁 **Behance:** [behance.net/kazimostofasakin](https://behance.net/kazimostofasakin)
