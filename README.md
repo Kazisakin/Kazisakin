@@ -4,13 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=Kazisakin&label=Profile%20views&color=0e75b6&style=flat" alt="Kazisakin" />
 </p>
 
-Third-year Computer Science student at the University of New Brunswick. I build secure, scalable full-stack applications and machine learning systems — with hands-on work in Python, Java, Next.js, and Docker. Recent focus: differentially private LLM fine-tuning, full-stack production systems, and API testing.
+Fourth-year Computer Science student at the University of New Brunswick. I build secure, scalable full-stack applications and machine learning systems — with hands-on experience in Python, Java, Next.js, and Docker. Current focus: differentially private LLM fine-tuning, production full-stack systems, and API testing.
 
-📍 Fredericton, NB, Canada &nbsp;·&nbsp; 🎓 BCS, UNB (Jan 2023 – Dec 2026) &nbsp;·&nbsp; 📧 kazisakin@icloud.com
+**Location:** Fredericton, NB, Canada &nbsp;·&nbsp; **Degree:** BCS, UNB (Jan 2023 – Dec 2026) &nbsp;·&nbsp; **Email:** kazisakin@icloud.com
 
 ---
 
-## 🛠 Skills
+## Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -66,43 +66,51 @@ Third-year Computer Science student at the University of New Brunswick. I build 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [DP-SGD GPT-2 Text Generation](https://github.com/Kazisakin)
-Differentially private fine-tuning of 5 GPT-2 family model variants using PyTorch, HuggingFace, and Opacus. Achieved formal (ε, δ)-DP guarantees with 0% canary leakage. Includes Flask multi-model inference web app with real-time response comparison.
+Differentially private fine-tuning of 5 GPT-2 family model variants using PyTorch, HuggingFace, and Opacus. Achieved formal (ε, δ)-DP guarantees with 0% canary leakage. Includes a Flask multi-model inference web application with real-time response comparison across all model variants.
+
 **Stack:** Python · PyTorch · HuggingFace · Opacus · Flask · Linux GPU (Vast.ai, Kaggle)
 
-### [KrishiVet — Full-Stack Production Site](https://krishivet.ca)
-Production e-commerce-adjacent platform built from scratch in Next.js 16. 15+ REST API endpoints, 8-table PostgreSQL schema via Prisma, 2FA admin with email OTP, session management, rate limiting, XSS/CSRF protection, and CI/CD via Vercel.
+### [KrishiVet — Full-Stack Production Platform](https://krishivet.ca)
+Production e-commerce-adjacent platform built from scratch using Next.js 16. Features 15+ REST API endpoints, an 8-table PostgreSQL schema via Prisma ORM, 2FA admin authentication with email OTP, session management, rate limiting, and XSS/CSRF protection. Deployed via Vercel with automated CI/CD.
+
 **Stack:** Next.js · TypeScript · PostgreSQL · Prisma ORM · Tailwind CSS · Vercel
 
 ### [Wildfire Detection System](https://github.com/Kazisakin/wfd-t12)
-JavaFX-based wildfire monitoring with a 16×16 grid map showing temperature, humidity, wind, and dryness. Buffered Data Loader with linear filtering, 24-hour Time Slider, and JUnit 5 test suite covering unit, integration, and boundary cases.
+JavaFX-based wildfire monitoring system with a 16×16 grid map displaying temperature, humidity, wind, and dryness metrics. Features a buffered data loader with linear filtering, 24-hour time slider for forecast visualisation, and a JUnit 5 test suite covering unit, integration, and boundary cases.
+
 **Stack:** Java · JavaFX · JUnit 5 · Maven
 
 ### [Secure Feedback Web Application](https://github.com/Kazisakin/secure-feedback-app)
-Multi-role Spring Boot application with Spring Security and PostgreSQL. STRIDE threat modelling, attack tree analysis, RBAC enforcement, and full functional + security testing with documented defect reports.
+Multi-role Spring Boot application with Spring Security and PostgreSQL. Implements STRIDE threat modelling, attack tree analysis, and RBAC enforcement. Includes comprehensive functional and security testing with documented defect reports.
+
 **Stack:** Java · Spring Boot · Spring Security · PostgreSQL · Docker
 
 ### [SMS Spam Classifier](https://github.com/Kazisakin/SMS-Spam-Classifier)
-Flask web app processing 11,000+ messages with TF-IDF preprocessing. Trained Logistic Regression, KNN, and Decision Tree classifiers. Containerised deployment on Railway with a feedback loop triggering retraining after 50+ submissions.
+Flask web application processing 11,000+ messages with TF-IDF preprocessing. Trained Logistic Regression, KNN, and Decision Tree classifiers. Containerised deployment on Railway with a feedback loop that triggers model retraining after 50+ user submissions.
+
 **Stack:** Python · Flask · scikit-learn · Pandas · Docker · Railway
 
 ### [WordPress Secure Voting Platform](https://github.com/Kazisakin/2FA-Universal-WP-Voting)
-WordPress + PHP/MySQL voting platform serving 150+ UNB BSS members. Email-based 2FA with 30-minute token expiry, 10+ vote categories, automated confirmation emails, and faculty-validated platform integrity.
+WordPress and PHP/MySQL voting platform serving 150+ UNB BSS members. Features email-based 2FA with 30-minute token expiry, 10+ vote categories, and automated confirmation emails. Platform integrity validated by faculty.
+
 **Stack:** WordPress · PHP · MySQL · Custom PHP Hooks
 
 ### [Inventory Management System](https://github.com/Kazisakin/Invoice-generator)
-Modular C++ console inventory system using linked lists and file I/O. Dynamic memory management, sorting/searching algorithms, and a menu-driven interface.
+Modular C++ console-based inventory system using linked lists and file I/O. Includes dynamic memory management, sorting and searching algorithms, and a menu-driven interface.
+
 **Stack:** C++ · STL · File I/O
 
-### [LLM Case Classifier App](https://github.com/Kazisakin/llm-case-classifier-app)
-Automated case categorisation system using the OpenAI API with real-time status updates. PostgreSQL-powered statistics dashboard visualising total, resolved, and pending cases across 5 categories with daily breakdown charts.
+### [LLM Case Classifier Application](https://github.com/Kazisakin/llm-case-classifier-app)
+Automated case categorisation system using the OpenAI API with real-time status updates. Features a PostgreSQL-powered statistics dashboard visualising total, resolved, and pending cases across 5 categories with daily breakdown charts.
+
 **Stack:** Python · OpenAI API · PostgreSQL · Chart.js
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **ReadyAPI: API Test Engineer — Basics** · SmartBear · Feb 2026
 - **Postman API Fundamentals Student Expert** · Postman · Jan 2026
@@ -111,7 +119,7 @@ Automated case categorisation system using the OpenAI API with real-time status 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kazisakin&show_icons=true&theme=default&hide_border=true" alt="Kazi's GitHub stats" />
@@ -120,10 +128,10 @@ Automated case categorisation system using the OpenAI API with real-time status 
 
 ---
 
-## 🤝 Let's Connect
+## Contact
 
-📧 **Email:** kazisakin@icloud.com
-🔗 **LinkedIn:** [linkedin.com/in/kazisakin](https://linkedin.com/in/kazisakin)
-🌐 **Portfolio:** [kazisakin.dev](https://kazisakin.dev)
-🎨 **Design Portfolio:** [design.kazimostofasakin.com](https://design.kazimostofasakin.com)
-📁 **Behance:** [behance.net/kazimostofasakin](https://behance.net/kazimostofasakin)
+**Email:** kazisakin@icloud.com  
+**LinkedIn:** [linkedin.com/in/kazisakin](https://linkedin.com/in/kazisakin)  
+**Portfolio:** [kazisakin.dev](https://kazisakin.dev)  
+**Design Portfolio:** [design.kazimostofasakin.com](https://design.kazimostofasakin.com)  
+**Behance:** [behance.net/kazimostofasakin](https://behance.net/kazimostofasakin)
